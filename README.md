@@ -69,15 +69,8 @@ Key points:
 
 ## TABULATION LASER Characteristics (1310 nm)
 
-| Forward Voltage \(V_f\) (V) | Forward Current \(I_f\) (mA) |
-|-----------------------------|------------------------------|
-|                             |                              |
-|                             |                              |
-|                             |                              |
----
+<img width="1998" height="1753" alt="WhatsApp Image 2026-05-26 at 6 43 14 PM" src="https://github.com/user-attachments/assets/56bfaf9a-df73-4fe5-93db-939388044892" />
 
-## MODEL GRAPH
-*(Insert IV characteristics graph and optical power plots here)*
 
 ---
 
